@@ -11,7 +11,6 @@ Includes text generation, image creation, video editing, music production, data 
 |------|------|-------------|
 | **ChatGPT (OpenAI)** | [chat.openai.com](https://chat.openai.com) | Advanced chatbot for conversations, creative writing, programming, and learning. Free tier with GPT-3.5. |
 | **Perplexity AI** | [perplexity.ai](https://www.perplexity.ai) | AI-powered search engine providing contextual answers, great for research. |
-| **Poe** | [poe.com](https://poe.com) | Platform hosting multiple AI models like Claude, GPT, and others with daily free usage. |
 | **You.com** | [you.com](https://you.com) | Search engine with integrated AI for quick answers and content creation. |
 | **Gemini (Google)** | [gemini.google.com](https://gemini.google.com) | Google's multimodal AI for answering questions, text generation, image analysis, and coding. |
 | **Grok (xAI)** | [x.ai](https://x.ai) | Chatbot integrated into X (Twitter) with a more casual and witty style. |
@@ -37,6 +36,8 @@ Includes text generation, image creation, video editing, music production, data 
 | **Runway ML** | [runwayml.com](https://runwayml.com) | AI-based video creation and editing, including text-to-video (limited free plan). |
 | **Pika.art** | [pika.art](https://pika.art) | Short video generation from text prompts or images. |
 | **CapCut** | [capcut.com](https://www.capcut.com) | Online video editor with AI tools like background removal and auto-captions. |
+| **Kling AI** | [app.klingai.com/global](https://app.klingai.com/global) | Advanced AI video generation platform for realistic and creative results. |
+| **Wan** | [wan.video](https://wan.video) | AI-powered platform for creating high-quality videos from text or image prompts. |
 
 ---
 
@@ -70,6 +71,33 @@ Includes text generation, image creation, video editing, music production, data 
 
 ---
 
+## 📚📂 7. AI Libraries
+
+| Tool | Link | Description |
+|------|------|-------------|
+| **Futurepedia** | [futurepedia.io](https://www.futurepedia.io) | Large AI tools directory with categories and filters. |
+| **There's an AI For That** | [theresanaiforthat.com](https://theresanaiforthat.com) | Search engine for AI tools by use case. |
+| **Poe** | [poe.com](https://poe.com) | Platform hosting multiple AI models with daily free access. |
+| **Clipzap** | [clipzap.ai](https://www.clipzap.ai) | AI tools hub with multiple utilities for content creation. |
+
+---
+
+## 📽 8. Presentation Creation
+
+| Tool | Link | Description |
+|------|------|-------------|
+| **Gamma** | [gamma.app](https://gamma.app) | AI-powered tool to create beautiful, interactive presentations quickly. |
+| **Presentations.ai** | [presentations.ai](https://www.presentations.ai) | Smart presentation builder with AI-generated slides and designs. |
+
+---
+
+## 9. Autonomous AI Agents
+
+| Tool | Link | Description |
+|------|------|-------------|
+| **Manus AI** | [manus.im](https://manus.im) | Fully autonomous AI agent capable of independently planning and executing complex tasks end-to-end — from data analysis to content generation — without ongoing human input. Surpasses traditional agents in real-world task completion benchmarks. |
+
+
 ## 📌 Contributing
 Feel free to submit a **pull request** with more AI tools to keep this list growing!  
 
@@ -78,3 +106,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 ⭐ If you find this repository useful, give it a star to support the project!
+
