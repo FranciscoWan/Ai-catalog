@@ -5,6 +5,8 @@ Includes text generation, image creation, video editing, music production, data 
 
 ---
 
+| **Notebook.google** | [Notebook.google](https://notebook.google.com/) | Analyzes documents and websites to generate summaries, answer questions, and create study materials based on the provided sources. |
+
 ## 📚 1. Text Generation & Chatbots
 
 | Tool | Link | Description |
